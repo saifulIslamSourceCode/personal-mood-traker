@@ -51,6 +51,8 @@ A clean, responsive React-based UI for a Mood Tracker web application. This fron
 - **Frontend:** React, Bootstrap 5, Chart.js  
 - **Backend:** Express.js  
 - **Database:** MSSQL
+- ![image](https://github.com/user-attachments/assets/7e07ad95-d18d-48c8-b39c-8fed20b3dd2a)
+
 
 ---
 
@@ -59,4 +61,4 @@ A clean, responsive React-based UI for a Mood Tracker web application. This fron
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/yourusername/your-ui-repo.git
+   git clone https://github.com/saifulIslamSourceCode/personal-mood-traker
