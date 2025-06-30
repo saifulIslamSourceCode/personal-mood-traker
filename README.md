@@ -46,12 +46,21 @@ A clean, responsive React-based UI for a Mood Tracker web application. This fron
 
 ---
 
+## Screenshorts
+![image](https://github.com/user-attachments/assets/b90890a0-4577-4ae4-bb60-b015374b906b)
+![image](https://github.com/user-attachments/assets/edfe0668-665b-43c5-b046-7f029b56342e)
+![image](https://github.com/user-attachments/assets/3aa3dc71-e7e7-4b42-b0f6-1f3fb41e17e9)
+
+
+
+
+---
+
 ## Tech Stack
 
 - **Frontend:** React, Bootstrap 5, Chart.js  
 - **Backend:** Express.js  
 - **Database:** MSSQL
-- ![image](https://github.com/user-attachments/assets/7e07ad95-d18d-48c8-b39c-8fed20b3dd2a)
 
 
 ---
