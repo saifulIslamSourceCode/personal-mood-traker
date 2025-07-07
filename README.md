@@ -32,13 +32,6 @@ A clean, responsive React-based UI for a Mood Tracker web application. This fron
 - Soft delete moods by hiding
 - Option to restore previously deleted moods
 
-### 🔥 Streak Badge
-- Earn badges for logging moods 3 or more consecutive days
-
-### ⭐ Bonus (Optional)
-- Mood of the Month: shows most selected mood in last 30 days
-- Export mood history as PDF
-
 ### 🎨 Design & UI
 - Built with React and Bootstrap 5
 - Responsive and mobile-friendly design
