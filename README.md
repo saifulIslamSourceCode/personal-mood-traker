@@ -1,6 +1,6 @@
 # Mood Tracker UI
 
-A clean, responsive React-based UI for a Mood Tracker web application. This frontend integrates with a Laravel backend and provides users a smooth experience to log, view, and manage daily moods.
+A clean, responsive React-based UI for a Mood Tracker web application. This frontend integrates with a express backend and provides users a smooth experience to log, view, and manage daily moods.
 
 ---
 
